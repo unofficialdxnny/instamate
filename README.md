@@ -8,9 +8,9 @@
  
  # Requires
  
- - <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>
+ - Firefox</a>
  - Instapy
-
+ - Python3
 # How To Use?
 
 - Fork the repository 
