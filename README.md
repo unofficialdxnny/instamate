@@ -1,5 +1,8 @@
 
  <h1 align="center">INSTAMATE</h1>
+ <p align="center">
+ <img src="https://repository-images.githubusercontent.com/304879526/70a70c80-5861-11eb-99a7-2198cf20073e">
+ </p>
  
  ----
  
