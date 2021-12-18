@@ -13,7 +13,7 @@ browser= webdriver.Firefox(); # opens FireFox browser (you will neeed to install
 browser.get('http://www.instagram.com');
 
 
-session = InstaPy(username="", password="") # insert your creedentials here
+session = InstaPy(username="<not email ok>", password="<password>") # insert your creedentials here
 session.login()
 session.like_by_tags(["javascript", "html", "css", "code", "java"], amount=5) # this is the tags(#) that the bot will search for
 session.set_dont_like(["naked", "nsfw"])# the tags that will be ignored :)
